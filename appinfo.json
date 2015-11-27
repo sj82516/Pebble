@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "sj82516@gmail.com",
+    "longName": "pebble_test",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "pebble_test",
+    "uuid": "7c8dce7b-258d-4d21-8ba4-7760757404af",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
